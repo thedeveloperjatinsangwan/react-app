@@ -9,6 +9,7 @@ function App() {
         <p>
           Nirmit Sangwan
         </p>
+        <p>Bhawna Sangwan</p>
         <a
           className="App-link"
           href="https://reactjs.org"
